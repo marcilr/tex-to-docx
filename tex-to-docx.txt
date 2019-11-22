@@ -1,0 +1,6 @@
+tex-to-docx.txt
+Created Thu 21 Nov 2019 08:50:02 PM AKST
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+LaTeX to docx conversion
